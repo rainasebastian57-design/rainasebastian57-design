@@ -1,6 +1,9 @@
 # 💫 Hey
 # 👋 I'm Raina Sebastian<br><br>🚀 Computer Science Student  <br>🐍 Python Developer | 🤖 AI Enthusiast | 🌐 Frontend Developer  <br><br>---<br><br>## 👩‍💻 About Me<br><br>I dont"t just code I build intelligent and interactive experience<br><br> My interest lies in building AI-powered solutions and combining them with clean, responsive user interfaces to create complete, real-world applications.<br><br>I’m constantly exploring new tools, experimenting with ideas, and turning concepts into working products.<br><br>---<br><br>## 🔥 What I’m Building<br><br>- 🤖 AI-powered web applications  <br>- 🐍 Python-based automation and backend systems  <br>- 🌐 Responsive and modern frontend interfaces  <br>- 💡 Projects that solve real-world problems  <br><br>---<br><br>## 🛠 Tech Stack<br><br>**Languages:**  <br>Python | JavaScript | C  <br><br>**Frontend:**  <br>HTML | CSS | React (Learning & Building)  <br><br>**Core Interests:**  <br>Artificial Intelligence | Machine Learning | Web Application Development  <br><br>---<br><br>## 🚀 Leadership & Initiative<br><br>🎮 Event Head – C Gaming (Prayag, LBSITW)  <br>Led and coordinated a technical event, gaining early leadership and execution experience as a CS student.<br><br>---<br><br>## 🌱 Vision<br><br>To become a strong developer who can seamlessly blend AI intelligence with beautiful frontend experiences and scalable backend systems.<br><br>---<br><br>⭐ Always building. Always evolving.<br>
 
+### 🕵🏼‍♂️ Open Source Contribution 🎖
+<img src="https://i.ibb.co/4RRVH0r5/Contributor-Hack-The-Stack.jpg" width="300"/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raina-sebastian-9a4292382?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rainasebastian57@gmail.com) 
@@ -14,8 +17,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rainasebastian57-design&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### Open Source Contribution 
-<img src="https://i.ibb.co/4RRVH0r5/Contributor-Hack-The-Stack.jpg" width="300"/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rainasebastian57-design&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
